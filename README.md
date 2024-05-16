@@ -29,7 +29,7 @@ This project is a feedback and grievance system for a restaurant named Aromatic 
 
 To run this application locally, follow these steps:
 
-1. Clone this repository to your local machine `git clone https://github.com/maaz64/React_F&G_AbuMaaz.git`.
+1. Clone this repository to your local machine `git clone https://github.com/maaz64/React_F-G_AbuMaaz.git`.
 2. Navigate to the project directory.
 3. Install dependencies using `npm install` or `yarn install`.
 4. Start the development server using `npm start` or `yarn start`.
